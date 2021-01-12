@@ -1,7 +1,7 @@
 # E-Commerce
 ### [Live Site](https://ecomm-website-cms-beta.netlify.app/)
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+![eCommerce](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F450641506454302518%2F&psig=AOvVaw2XPhNQT5sWLCfKFmfXmPa-&ust=1610516252460000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCcluLWle4CFQAAAAAdAAAAABAP)
 
 ## Introduction
 The following app is not having a proper backend ans is powered using a CMS 
